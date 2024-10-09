@@ -1,0 +1,46 @@
+[
+    {
+        "name":"Stranger Things",
+        "id":"stranger-things",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIPsqq6mN-Wjb7qKXUVmBOsOvQPm2A1WvflBg6faVTkjrX5_033ErSqb9BwEdsR9Vqe4&usqp=CAU",
+        "rating": "8.7",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero aperiam eligendi, animi optio officia accusantium commodi? Magnam, obcaecati provident. Ut quisquam molestiae, modi vel sed molestias ea reprehenderit iusto laboriosam.",
+        "cast": ["imran", "khan", "Ali"],
+        "genre": ["Drama" , "Horor" , "Fantsy"],
+        "watch_url": "https://www.netflix.com/pk/title/80057281"
+        
+    },
+    {
+        "name":"The Witcher",
+        "id":"the-witcher",
+        "img_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkkt9ZesujIficGP_RjI-iH0n-CXUpzXq0jgLtpklKheIVf09",
+        "rating": "8.1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero aperiam eligendi, animi optio officia accusantium commodi? Magnam, obcaecati provident. Ut quisquam molestiae, modi vel sed molestias ea reprehenderit iusto laboriosam.",
+        "cast": ["imran", "khan", "Ahmad"],
+        "genre": ["Drama","Horor","Fantsy"],
+        "watch_url": "https://www.netflix.com/pk/title/80189685"
+        
+    },
+    {
+        "name":"Crash Landing On you",
+        "id":"crash-landing-on-you",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/6/64/Crash_Landing_on_You_main_poster.jpg",
+        "rating": "8.5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero aperiam eligendi, animi optio officia accusantium commodi? Magnam, obcaecati provident. Ut quisquam molestiae, modi vel sed molestias ea reprehenderit iusto laboriosam.",
+        "cast": ["imran", "khan", "Ali"],
+        "genre": ["Drama","Horor","Fantsy"],
+        "watch_url": "https://www.netflix.com/pk/title/81159258"
+        
+    },
+    {
+        "name":"Money Heist",
+        "id":"money-heist",
+        "img_url": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg",
+        "rating": "8.0",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero aperiam eligendi, animi optio officia accusantium commodi? Magnam, obcaecati provident. Ut quisquam molestiae, modi vel sed molestias ea reprehenderit iusto laboriosam.",
+        "cast": ["imran", "khan", "Ali"],
+        "genre": ["Drama","Horor","Fantsy"],
+        "watch_url": "https://www.netflix.com/pk/title/80192098"
+        
+    }
+]
